@@ -1,0 +1,92 @@
+.content3{
+    /* background-color: yellow; */
+   background-color: #141943;
+    width: 84.3rem;
+    height: 50rem;
+   
+}
+.upperCompany_name{
+    /* background-color: #ff6347; */
+    width: 40rem;
+    height: 3rem;
+    margin-left: 18%;
+    display: flex;
+    justify-content: space-between;
+  
+}
+.lowerCompany_name{
+    /* background-color: tan; */
+    width: 24rem;
+    height: 3rem;
+    margin-left: 28%;
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+.meta{
+    /* background-color: rgb(202, 124, 124); */
+    width: 10rem;
+    height: 3rem;
+}
+#meta6{
+   width: 150px;
+}
+.trust{
+    /* background-color: violet; */
+    width: 10rem;
+    height: 3rem;
+}
+#trust7{
+    width: 150px;
+ }
+ .Wallet{
+   /* background-color: rgb(180, 70, 112); */
+    width: 10rem;
+    height: 3rem;
+ }
+ #Wallet8{
+    width: 230px;
+    margin-top: -3.5rem;
+    margin-left: -1.5rem;
+ }
+ .exodus{
+    /* background-color: chartreuse; */
+    width: 8rem;
+    height: 3rem;
+ }
+ #exodus9{
+    width: 150px;
+ }
+ .safe{
+    /* background-color: sandybrown; */
+    width: 8rem;
+    height: 3rem;
+ }
+ #safe10{
+    width: 195px;
+    margin-top: -3rem;
+    margin-left: -2rem;
+ }
+ .trending-nfts{
+    /* background-color: rgba(112, 16, 187, 0.30); */
+   width: 12rem;
+   height: 3rem;
+   margin-left: 36%; 
+   margin-top: 15%;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+.tr-nfts{
+    text-transform: capitalize;
+    /* background: var(--gradient3, linear-gradient(90deg, #69EACB 0%, #EACCF8 48%, #6654F1 100%)); */
+     font-size: 28px;
+     background: var(--gradient3, linear-gradient(90deg, #69EACB 0%, #EACCF8 48%, #6654F1 100%));
+/* background-clip: text; */
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+     text-align: center;
+     font-weight: 700;
+     
+}
